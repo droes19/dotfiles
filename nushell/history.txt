@@ -1,0 +1,149 @@
+which nvim
+nvim .
+cd project\data\
+ls
+cd ..
+cd config\
+which cd
+cd nvim2
+cd project\config\
+cd nvim\
+git switch -c v0.12
+git status
+git add .
+nvim .
+nvim .
+nvim
+cd project\config\
+cd ..
+cd data\nvim-data\
+nvim .
+which make
+cd site\pack\core\opt\
+nvim .
+cd ../nvim
+git status
+git branch
+git add .
+code .
+nvim ~/.wezterm.lua
+nvim .
+git status
+git commit -m "will it use vim.pack if use v0.12?"
+git config
+git config get
+git config get user.name
+git push
+git push --set-upstream origin v0.12
+cd ../nvim2
+vim .
+cd project\config\nvim
+vim
+nvim .
+nvim
+cd project\config\nvim
+vim .
+nvim
+cd project\config\nvim
+nvim .
+cd project\config\nvim
+vim .
+nvim
+cd project\config\nvim
+banner false
+banner help
+banner pwd
+banner
+exit
+overlay hide 
+config nu | banner false
+config nu | banner hide
+config nu | banner 0
+config nu | banner
+config nu
+where starship
+echo $env.path
+which starship
+echo $env.path
+echo $env.home
+echo $env.path
+ls
+cd project\config\
+ls
+nvim ~
+echo $env.starship_config
+starship preset catppuccin-powerline -o C:/Users/droes/project/config/starship.toml
+which fzf
+nvim $env.xdg_config_home
+echo $env.data-dir
+echo $nu.data-dir
+nvim $nu.data-dir
+which zoxide
+which z
+type z
+describe z
+which z | type
+which z | describe
+z ~
+which cd
+which cd | describe
+which fzf
+where fzf
+which where
+echo $env.path
+which fzf
+nvim .
+cd ..
+which tmux
+tmux
+echo -e "\uE0B0 \uE0B1"  # Powerline separators
+exit
+echo $nu.os-info.name
+echo $env.path
+tmux# }
+exit
+tmux
+tmux kill
+tmux kill-session all
+tmux kill-session
+print (char decode '0xe0b0')
+exit
+tmux
+exit
+tmux
+tmux kill-server
+tmux
+tmux kill-server
+tmux
+which starship
+tmux kill-server
+locale
+tmux
+echo $nu.os-info.name
+locale
+tmux kill-server
+tmux
+locale
+python -c "import sys; print(repr(sys.stdin.read(1)))"
+nvim .
+cd nvim
+which z
+z
+cd nvim
+ls
+pwd
+nvim .
+cd C:\Users\droes\project\config\nvim\
+nvim .
+:q
+nvim .
+nvim
+cd C:\Users\droes\project\config\nvim\
+nvim .
+nvim
+cd C:\Users\droes\project\config\
+nvim .
+git init
+git branch -M main
+git remote add origin https://github.com/droes19/dotfiles
+git status
