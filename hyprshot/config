@@ -1,0 +1,11 @@
+# Directory to save screenshots
+save_dir="$HOME/Pictures"
+
+# Filename format
+filename_format="screenshot_%Y-%m-%d_%H-%M-%S"
+
+# Copy to clipboard after screenshot
+copy_to_clipboard=true
+
+# Show notification after screenshot
+notification=true

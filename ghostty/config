@@ -1,0 +1,3 @@
+theme = tokyonight_night
+shell-integration = none
+command = /usr/bin/nu
