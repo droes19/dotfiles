@@ -1,0 +1,28 @@
+return {
+  -- "m4xshen/hardtime.nvim",
+  -- event = "VeryLazy",
+  -- dependencies = { "MunifTanjim/nui.nvim" },
+  -- opts = {
+  --   hints = {
+  --     ["[dcyvV][ia][%(%)]"] = {
+  --       message = function(keys)
+  --         return "Use " .. keys:sub(1, 2) .. "b instead of " .. keys
+  --       end,
+  --       length = 3,
+  --     },
+  --     ["[dcyvV][ia][%{%}]"] = {
+  --       message = function(keys)
+  --         return "Use " .. keys:sub(1, 2) .. "B instead of " .. keys
+  --       end,
+  --       length = 3,
+  --     },
+  --     ["[kj][%^_]"] = {
+  --       message = function(key)
+  --         -- cause "-" is used for oil, i change it to <NL> instead
+  --         return "Use " .. (key:sub(1, 1) == "k" and "<NL> or ctrl+enter" or "<CR> or +") .. " instead of " .. key
+  --       end,
+  --       length = 2,
+  --     },
+  --   },
+  -- },
+}
