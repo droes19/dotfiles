@@ -22,3 +22,7 @@ def install_topiary_nushell [] {
   }
   git clone https://github.com/blindFS/topiary-nushell ($env.XDG_CONFIG_HOME | path join topiary)
 }
+
+source ($nu.default-config-dir | path join "custom" "nvm.nu")
+use_nvm_node -a
+
